@@ -1,0 +1,24 @@
+{
+  "name": "cis355-assign1-anodjo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheSlimyOne/cis355-assign1-Anodjo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheSlimyOne/cis355-assign1-Anodjo/issues"
+  },
+  "homepage": "https://github.com/TheSlimyOne/cis355-assign1-Anodjo#readme",
+  "dependencies": {
+    "console-table-printer": "^2.11.0",
+    "fs": "^0.0.1-security",
+    "minimist": "^1.2.6"
+  }
+}
