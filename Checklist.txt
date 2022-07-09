@@ -1,0 +1,11 @@
+Input Step	Yes / No
+Input #1	Yes
+Input #2	Yes
+Input #3	Yes
+Input #4	Yes
+Input #5	Yes
+Input #6	Yes
+Input #7	Yes
+Input #8	Yes
+Extra Credit Attempted? Yes	
+Input #8 with Extra Credit Yes	

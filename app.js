@@ -1,3 +1,15 @@
+/*
+    Contact
+    ---------------------------
+    Jordan Anodjo
+    jjanodjo@svsu.edu
+
+    Description
+    ---------------------------
+    A cmd based shop where users can sell and purchase from other users.
+
+*/
+
 const minimist = require("minimist")
 const fs = require("fs")
 const { Table } = require("console-table-printer")
